@@ -1,3 +1,13 @@
-https://github.com/dinanathsj29/javascript-beginners-tutorial/blob/master/_examples_javascript_beginners/assets/images/javascript_logo_4.png
+Nodejs for Beginners
 
-JavaScript logo
+<1> Go to index.js.
+Information is provided serial vise kindly go through it.
+
+NOTE
+/*
+//-- is used for main heading.
+//- is used for sub heading.
+// is used to comment the code. 
+if you want to run the code kindly uncomment that codes present in that category.
+*/
+
