@@ -10,7 +10,6 @@ NOTE=
 //- is used for sub heading.
 
 // is used to comment the code.
-
-if you want to run the code kindly uncomment that codes present in that category.
+If you want to run the code kindly uncomment that codes present in that category.
 
 
