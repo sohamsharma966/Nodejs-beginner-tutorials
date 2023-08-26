@@ -1,7 +1,7 @@
 Nodejs for Beginners
 
 <1> Go to index.js.
-Information is provided serial vise kindly go through it.
+Information is provided serial wise kindly go through it.
 
 NOTE=
 
