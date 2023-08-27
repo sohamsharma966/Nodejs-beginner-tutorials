@@ -1,6 +1,6 @@
-Nodejs for Beginners
+# Nodejs for Beginners
 
-<1> Go to index.js.
+## Go to index.js.
 Information is provided serial wise kindly go through it.
 
 NOTE= important notes.
